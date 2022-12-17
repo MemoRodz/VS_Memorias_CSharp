@@ -6,6 +6,8 @@
 
 * [00 - CV (Curriculum Vitae)](./00-CV)
 
+* [01 - Portafolio]
+
 
 # NOTAS:
 
